@@ -1,5 +1,7 @@
 #Flatiron Bank App 
 
+demo: https://2020brian.github.io/phase2week1/
+
 ![Banking App Screenshot](screen.png)
 
 The user is a bank employee who manually manages the bank's accounts.
