@@ -1,6 +1,8 @@
 #Flatiron Bank App 
 
 demo: https://2020brian.github.io/phase2week1/
+
+Use the following credentials to test the app.
 ### For Admin
 ```
 email: admin@admin.com
